@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83661b5c-e731-41d9-bd1c-c61c3cdaf335" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 12 - Objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Anonymous object or Anonymous class.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companion objects.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/X.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fEQ4E9kFAA4BpQxgnDIYNU2kZa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Kotlin.Anonymous_object_or_Anonymous_classKt.executor": "Run",
+    "Kotlin.Challenge_1Kt.executor": "Run",
+    "Kotlin.Companion_objectsKt.executor": "Run",
+    "Kotlin.ObjectsKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Challenge_1Kt">
+    <configuration name="Anonymous_object_or_Anonymous_classKt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anonymous_object_or_Anonymous_classKt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Anonymous_object_or_Anonymous_classKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anonymous_object_or_Anonymous_classKt" />
+      <module name="Chapter 12 - Objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.Challenge_1Kt" />
+      <module name="Chapter 12 - Objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Companion_objectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Companion_objectsKt" />
+      <module name="Chapter 12 - Objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsKt" />
+      <module name="Chapter 12 - Objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Challenge_1Kt" />
+        <item itemvalue="Application.Anonymous_object_or_Anonymous_classKt" />
+        <item itemvalue="Kotlin.Anonymous_object_or_Anonymous_classKt" />
+        <item itemvalue="Kotlin.ObjectsKt" />
+        <item itemvalue="Kotlin.Companion_objectsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83661b5c-e731-41d9-bd1c-c61c3cdaf335" name="Changes" comment="" />
+      <created>1713363564856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713363564856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
