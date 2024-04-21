@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83661b5c-e731-41d9-bd1c-c61c3cdaf335" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 12 - Objects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anonymous object or Anonymous class.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companion objects.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/X.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects.kt" afterDir="false" />
-    </list>
+    <list default="true" id="83661b5c-e731-41d9-bd1c-c61c3cdaf335" name="Changes" comment="Chapter 12 - Objects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,9 +98,20 @@
       <option name="presentableId" value="Default" />
       <updated>1713363564856</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 12 - Objects">
+      <option name="closed" value="true" />
+      <created>1713724490536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713724490536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Chapter 12 - Objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 12 - Objects" />
   </component>
 </project>
